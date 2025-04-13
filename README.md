@@ -24,4 +24,7 @@ During my internship at ANTAR IoT, I developed a metric calculator web applicati
  - LinkedIn: [linkedin/nallam-deepak](https://www.linkedin.com/in/nallam-deepak)
  - Portfolio: [portfolio/deepak](https://deepak3-portfolio.netlify.app/)
 
+# Platfroms you can find me on 🧠
+ - Leetcode: [LeetCode/Deepak](https://leetcode.com/u/DEEPAKNALLAM/)
+
 
